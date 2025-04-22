@@ -89,6 +89,10 @@ repositories:
     type: git
     url: https://github.com/tier4/tamagawa_imu_driver.git
     version: ros2
+  sensor_component/external/v4l2_camera:
+    type: git
+    url: https://github.com/tier4/ros2_v4l2_camera.git
+    version: master
   sensor_component/external/nebula:
     type: git
     url: https://github.com/tier4/nebula.git
